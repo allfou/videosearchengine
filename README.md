@@ -28,7 +28,7 @@ PhantomJS
 
 If you want to manage your own phantomJS process you can specify your own port in youtube.properties . It will create a RemoteWebDriver and connect to it.
 
-videosearch.phantom.port=9980
+		videosearch.phantom.port=9980
 
 Don't forget to add your own Youtube API credentials in youtube.properties
 
@@ -42,6 +42,4 @@ and in client_secrets.json
 				"client_secret": "YOUR_SECRET"
 			}
 		}
-		
-		
 
