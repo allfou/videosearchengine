@@ -32,13 +32,16 @@ videosearch.phantom.port=9980
 
 Don't forget to add your own Youtube API credentials in youtube.properties
 
-youtube.apikey=YOUR_API_KEY
+		youtube.apikey=YOUR_API_KEY
 
 and in client_secrets.json
 
-{
-  "installed": {
-      "client_id": "YOUR_CLIENT_ID",
-      "client_secret": "YOUR_SECRET"
-  }
-}
+		{
+			"installed": {
+				"client_id": "YOUR_CLIENT_ID",
+				"client_secret": "YOUR_SECRET"
+			}
+		}
+		
+		
+
