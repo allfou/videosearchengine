@@ -24,8 +24,11 @@ public class ExtractService {
 		/**
 		* APPLY YOUR OWN SEARCH ALGORITHM HERE
 		*/
+		// ...		
 		
-		// if we found captions then Save them into a file on the disk
+		/**
+		* OR USE BASIC STRING MATCHING SEARCH
+		*/
 		if (captionString != "") {							
 			// Extract data from Caption file
 			Scanner scanner = new Scanner(captionString);
