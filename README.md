@@ -1,5 +1,6 @@
 # Simple Video Search Engine
-Simplified version of a Video Search Engine that extracts content from Youtube videos based on a set of keywords. It collects the caption of a given video and applies a basic text search. Easily customizable it's a great starting point if you want to build your own video search engine. You can apply your own search algorithm in the extractData() function as shown below in ExtractService.java
+
+This open source project inspired from http://scan.video (private content for obvious reasons). It has been extremely simplified and can be shared with everyone. It is a basic Video Search Engine that extracts content from Youtube videos based on a set of keywords. It collects the caption of a given video and applies a basic text search. Easily customizable, it's a great starting point if you want to build your own video search engine. You can apply your own search algorithm in the extractData() function as shown below in ExtractService.java
 
 		...
 			
